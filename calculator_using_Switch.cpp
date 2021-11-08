@@ -2,7 +2,8 @@
 using namespace std;
 main()
 {
-	int choice,again ;
+	int choice;
+	char again ;
 	float num1, num2;
 	do{
 	
